@@ -1,0 +1,7 @@
+545896,127.0.0.1,GET,http://127.0.0.1:8000/api/competences,1669125157,1aa785,404
+1aa785,127.0.0.1,GET,http://127.0.0.1:8000/api/competences,1669125157,,404
+da7e95,127.0.0.1,GET,http://127.0.0.1:8000/api/competences/,1669125189,,200
+d4cee5,127.0.0.1,GET,http://127.0.0.1:8000/api/competences/new,1669126110,,200
+8ab084,127.0.0.1,POST,http://127.0.0.1:8000/api/competences/new,1669126159,,303
+4cfae5,127.0.0.1,GET,http://127.0.0.1:8000/api/competences/,1669126160,,200
+c5fb00,127.0.0.1,GET,http://127.0.0.1:8000/api/competences/,1669193738,,200
